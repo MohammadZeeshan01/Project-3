@@ -6,7 +6,7 @@
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-green)
 
-<!-- ## Project 3 [Live Link](https://live-proj-3.netlify.app) -->
+## Project 3 [Live Link](zeeshan-html-css-project-3.netlify.app)
 
 -   Skills Gained in this project
     -   Learnd to Place an image inside div and centering image without squishing or breaking image size with **object-fit** & **object-position**
